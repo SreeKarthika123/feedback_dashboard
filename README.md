@@ -28,13 +28,16 @@ This project is a simple and secure tool designed for internal feedback sharing 
   - Team overview
   - Feedback count per employee
   - Sentiment trends
-  - Pending requests from employees
+  - Pending requests from employees(Approve/Deny)
+  - Add Employee
+**There are 2 ways to add Employee to dashboard one way is through add employye which is in dashboard  and another way is registration the employee sents request to manager follwed by manager approval**
+
 
 - **Employee Dashboard:**
   - Timeline of all received feedback
   - Acknowledge feedback option
-  - Request status (pending/approved)
- 
+  - Request FeedBack
+  - Notification when manager created Account or updated feedback
     
 **Bonus Features Added:**
 - After Acknowledgement The employee can comment on feedback
