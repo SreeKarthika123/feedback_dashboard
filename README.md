@@ -3,7 +3,7 @@
 This project is a simple and secure tool designed for internal feedback sharing between **Managers** and **Employees** within a company. It enables structured, ongoing feedback to support professional growth and transparent communication.
 
 
-***🚀 **Features**
+🚀 **Features**
 
  ✅ **Authentication & Roles**
 - Two user roles: **Manager** and **Employee**
