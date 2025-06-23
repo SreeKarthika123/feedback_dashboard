@@ -34,6 +34,8 @@ This project is a simple and secure tool designed for internal feedback sharing 
   - Timeline of all received feedback
   - Acknowledge feedback option
   - Request status (pending/approved)
+ 
+    
 **Bonus Features Added:**
 - After Acknowledgement The employee can comment on feedback
 - Employees Can Request Feedback
