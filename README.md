@@ -1,28 +1,28 @@
 🗂️ Internal Feedback Sharing Tool
 
 This project is a simple and secure tool designed for internal feedback sharing between **Managers** and **Employees** within a company. It enables structured, ongoing feedback to support professional growth and transparent communication.
-## 🚀 **Features**
+🚀 **Features**
 
-### ✅ **Authentication & Roles**
+ ✅ **Authentication & Roles**
 - Two user roles: **Manager** and **Employee**
 - Employees can **register** and **log in**
 - Employees send a **request** to be assigned to a Manager
 - Managers can **approve** or **reject** requests
 
-### ✅ **Feedback Submission**
+ ✅ **Feedback Submission**
 - Managers can submit structured feedback for each team member:
   - **Strengths**
   - **Areas to Improve**
   - **Overall Sentiment** (positive / neutral / negative)
 - Managers can edit or update any past feedback
 
-### ✅ **Feedback Visibility**
+ ✅ **Feedback Visibility**
 - Employees can see **only their own feedback**
 - Employees can **acknowledge** feedback once they read it
 - Managers can view all feedback histories for their team
 
-### ✅ **Dashboards**
-- **Manager Dashboard:**
+ ✅ **Dashboards**
+ **Manager Dashboard:**
   - Team overview
   - Feedback count per employee
   - Sentiment trends
@@ -32,6 +32,11 @@ This project is a simple and secure tool designed for internal feedback sharing 
   - Timeline of all received feedback
   - Acknowledge feedback option
   - Request status (pending/approved)
+**Bonus Features Added:**
+- After Acknowledgement The employee can comment on feedback
+- Employees Can Request Feedback
+- Notification In App for both Roles
+- Export FeedBack As PDF
 
   **How TO Run:**
   Backend: python -m uvicorn main:app --reload
